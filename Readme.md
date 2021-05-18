@@ -1,6 +1,6 @@
 # Личный проект «Девайс»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/31/user/1803649).
+* Студент: [Владимир Миронов](https://up.htmlacademy.ru/htmlcss/31/user/1803649).
 * Наставник: [Дмитрий Аверин](https://htmlacademy.ru/profile/id1061531).
 
 ---
